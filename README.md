@@ -1,6 +1,6 @@
 # Flood_emergency_planning
 
-CEGE0096 Assessment 2 (Groupwork).
+CEGE0096 Assessment 2.
 (Group project of 3 members) 
 
 The task was to create a program that will find plan a safe route, given an input location from the user, in the event of an flood emergency in the Isle of Wight. 
